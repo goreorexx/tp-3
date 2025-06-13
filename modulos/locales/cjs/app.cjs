@@ -1,3 +1,4 @@
+//usar require. Llamar a las funciones con console log.
 const funciones = require("./funcionespordefecto.cjs");
 const {resta,suma} = require("./funcionesnombradas.cjs");
 
